@@ -4,29 +4,71 @@
       "id": 1,
       "name": "Gym Workout",
       "type": "fitness",
+      "status": "completed",
       "duration": 60,
       "date": "2026-06-04",
       "notes": "Chest and triceps workout",
       "photo": null,
-      "calories": 450
+      "calories": 450,
+      "amount": null,
+      "mood": "great",
+      "tags": ["morning", "strength"]
     },
     {
       "id": 2,
       "name": "Reading",
       "type": "learning",
+      "status": "completed",
       "duration": 30,
       "date": "2026-06-03",
       "notes": "React chapter 5",
-      "photo": null
+      "photo": null,
+      "calories": null,
+      "amount": null,
+      "mood": "good",
+      "tags": ["evening", "focus"]
     },
     {
       "id": 3,
       "name": "Grocery Shopping",
       "type": "finance",
-      "amount": 25.5,
+      "status": "completed",
+      "duration": null,
       "date": "2026-06-04",
       "notes": "Weekly groceries",
-      "photo": null
+      "photo": null,
+      "calories": null,
+      "amount": 25.50,
+      "mood": "neutral",
+      "tags": ["errands"]
+    },
+    {
+      "id": 4,
+      "name": "Morning Run",
+      "type": "fitness",
+      "status": "planned",
+      "duration": 45,
+      "date": "2026-06-05",
+      "notes": "5km easy pace",
+      "photo": null,
+      "calories": 300,
+      "amount": null,
+      "mood": null,
+      "tags": ["morning", "cardio"]
+    },
+    {
+      "id": 5,
+      "name": "Meditation",
+      "type": "health",
+      "status": "planned",
+      "duration": 15,
+      "date": "2026-06-05",
+      "notes": "Breathwork session",
+      "photo": null,
+      "calories": null,
+      "amount": null,
+      "mood": null,
+      "tags": ["morning", "mindfulness"]
     }
   ]
 }
