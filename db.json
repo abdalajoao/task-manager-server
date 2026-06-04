@@ -1,9 +1,32 @@
 {
-  "tasks": [
+  "activities": [
     {
       "id": 1,
-      "title": "Teste inicial",
-      "completed": false
+      "name": "Gym Workout",
+      "type": "fitness",
+      "duration": 60,
+      "date": "2026-06-04",
+      "notes": "Chest and triceps workout",
+      "photo": null,
+      "calories": 450
+    },
+    {
+      "id": 2,
+      "name": "Reading",
+      "type": "learning",
+      "duration": 30,
+      "date": "2026-06-03",
+      "notes": "React chapter 5",
+      "photo": null
+    },
+    {
+      "id": 3,
+      "name": "Grocery Shopping",
+      "type": "finance",
+      "amount": 25.5,
+      "date": "2026-06-04",
+      "notes": "Weekly groceries",
+      "photo": null
     }
   ]
 }
