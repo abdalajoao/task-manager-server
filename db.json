@@ -12,7 +12,8 @@
       "calories": 450,
       "amount": null,
       "mood": "great",
-      "tags": ["morning", "strength"]
+      "tags": ["morning", "strength"],
+      "favorite": false
     },
     {
       "id": 2,
@@ -26,7 +27,8 @@
       "calories": null,
       "amount": null,
       "mood": "good",
-      "tags": ["evening", "focus"]
+      "tags": ["evening", "focus"],
+      "favorite": false
     },
     {
       "id": 3,
@@ -38,9 +40,10 @@
       "notes": "Weekly groceries",
       "photo": null,
       "calories": null,
-      "amount": 25.50,
+      "amount": 25.5,
       "mood": "neutral",
-      "tags": ["errands"]
+      "tags": ["errands"],
+      "favorite": false
     },
     {
       "id": 4,
@@ -54,7 +57,8 @@
       "calories": 300,
       "amount": null,
       "mood": null,
-      "tags": ["morning", "cardio"]
+      "tags": ["morning", "cardio"],
+      "favorite": false
     },
     {
       "id": 5,
@@ -68,7 +72,8 @@
       "calories": null,
       "amount": null,
       "mood": null,
-      "tags": ["morning", "mindfulness"]
+      "tags": ["morning", "mindfulness"],
+      "favorite": false
     }
   ]
 }
